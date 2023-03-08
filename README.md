@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ALISA1003
+- 👋 Hi, I’m ALexander ISAev (@ALISA1003)
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C++, Python, Java
+- 🌱 I’m currently learning C++, Python, Java, R and web
 - 📫 How to reach me - alexanderisaev@bk.ru
 
 <!---
